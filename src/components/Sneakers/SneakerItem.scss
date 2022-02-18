@@ -1,0 +1,25 @@
+.sneakerItem {
+    margin-bottom: 3rem;
+    background-color: rgba(82, 82, 82, .4);
+
+    .sneakerItem-header {
+        margin-bottom: 1.4rem;
+        img {
+            overflow: hidden;
+        }
+    }
+
+    .sneakerItem-body {
+        padding: 1rem;
+        text-align: center;
+    }
+
+    button {
+        border: none;
+        background-color: #a9aab3;
+        cursor: pointer;
+        width: 100%;
+        border-radius: 5px;
+    }
+}
+

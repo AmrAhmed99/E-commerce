@@ -1,0 +1,16 @@
+.cart-item {
+    padding: 1rem;
+    transform: translate(750px,-5px);
+    width: 15%;
+    background-color: rgba(232, 232, 238, .8);
+}
+
+.cart-summary {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cart-actions {
+    display: flex;
+    justify-content: flex-end;
+}
